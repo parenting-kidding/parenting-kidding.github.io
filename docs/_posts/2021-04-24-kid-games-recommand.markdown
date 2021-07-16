@@ -2,7 +2,7 @@
 layout: post
 title:  "适合孩子玩的电子游戏推荐"
 date:   2021-04-24 22:41:30 -0600
-categories: game_recommends
+categories: game_recommend
 excerpt:  “为什么要给孩子玩游戏？”  “为什么不呢？”
 comments: true
 ---
