@@ -2,17 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+comments: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+一个[yearSince2015]岁孩子的父亲。一个靠写代码混饭吃的资本主义蛀虫。擅长划水，临阵退缩，和为自己刚写出来的bug找借口。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+曾获幼儿园其他小孩儿“我多希望**你**来当我爸爸呀”夸赞三次（其中有一次小孩儿妈妈还在后边儿看着）。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+曾获自己孩子“要不然我还是不买压路机了，我不想你死”评价一次。（同一个孩子：“爸爸，等猫一死我们就买一个龟龟好不好”） ~~猫猫后来康复了，谢谢关心。~~
 
+人生目标是健健康康的混吃等死，如果运气好能给世界做一点贡献那再好不过。
 
-[jekyll-organization]: https://github.com/jekyll
+希望把孩子培养成随便什么他自己觉得没问题的人。
